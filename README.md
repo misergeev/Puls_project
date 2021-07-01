@@ -1,3 +1,3 @@
 # Puls_project
-TODO
-Adaptation needs to be completed
+TODO:<br>
+1. Adaptation needs to be completed
